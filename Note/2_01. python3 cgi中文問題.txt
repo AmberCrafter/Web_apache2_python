@@ -1,0 +1,5 @@
+解決方法:
+import codecs, sys 
+sys.stdout = codecs.getwriter('utf8')(sys.stdout.buffer)
+
+推測python3標準輸出格式有統一成unicode，需要做輸出編碼格式的修改

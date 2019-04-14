@@ -1,0 +1,5 @@
+#!/usr/bin/python3
+# -*- coding: UTF-8 -*-
+
+#! : unit kernel 的magic number，其後接需要執行的命令
+# -*- coding: UTF-8 -*- : 用來指定文件編碼格式

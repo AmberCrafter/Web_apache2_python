@@ -1,0 +1,5 @@
+print("Content-type: text/html")
+print("")
+
+1. 第一行輸出文本類型
+2. 第二行告知解釋器文件設定完畢
